@@ -7,26 +7,26 @@ const App: React.FC = () => (
     mode="alternate"
     items={[
       {
-        children: 'Create a services site 2015-09-01',
+        children: 'Jordan Koziol-Repia edited project "VoiceQ Demo" on Sun May 19 2024 09:37:56 GMT+0000',
       },
       {
-        children: 'Solve initial network problems 2015-09-01',
+        children: 'Jordan Koziol-Repia edited project "VoiceQ Demo" on Sun May 19 2024 10:37:56 GMT+0000',
         color: 'green',
       },
       {
         dot: <ClockCircleOutlined style={{ fontSize: '16px' }} />,
-        children: `Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.`,
+        children: 'Jordan Koziol-Repia edited project "VoiceQ Demo" on Sun May 19 2024 11:37:56 GMT+0000',
       },
       {
         color: 'red',
-        children: 'Network problems being solved 2015-09-01',
+        children: 'Yoon Ho Lim edited project "VoiceQ Demo" on Sun May 19 2024 12:37:56 GMT+0000',
       },
       {
-        children: 'Create a services site 2015-09-01',
+        children: 'Jordan Koziol-Repia edited project "VoiceQ Demo" on Sun May 19 2024 15:37:56 GMT+0000',
       },
       {
         dot: <ClockCircleOutlined style={{ fontSize: '16px' }} />,
-        children: 'Technical testing 2015-09-01',
+        children: 'Adam Fu edited project "VoiceQ Demo" on Sun May 19 2024 16:37:56 GMT+0000',
       },
     ]}
   />
